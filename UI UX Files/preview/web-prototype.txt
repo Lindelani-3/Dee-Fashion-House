@@ -1,0 +1,4 @@
+internet link : https://app.uizard.io/p/693755c0
+
+
+embed: <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="720" height="470" src="https://app.uizard.io/p/693755c0/embed" allowfullscreen></iframe>
